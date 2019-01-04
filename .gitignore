@@ -1,0 +1,5 @@
+*.un~
+*.bak
+*.kate-swp
+.directory
+
